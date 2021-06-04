@@ -1,5 +1,5 @@
+const emitter = require('./emitter')
 // object methods and properties
-
 const object = {
     greet: 'Hello'
 }
@@ -39,4 +39,4 @@ arr.map(item => {
     }
 })
 
-
+emitter.clg
